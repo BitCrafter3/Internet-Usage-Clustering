@@ -1,5 +1,7 @@
 Introduction
 This project aims to group internet users based on their browsing habits. Clustering allows us to analyze users with similar usage patterns, which is helpful in behavior prediction, service customization, and anomaly detection. We use KMeans clustering for this unsupervised learning task, based on three key attributes: time spent online daily, variety of sites visited, and the number of sessions per day
+Problem Statement:
+Cluster users based on internet behavior using daily usage hours, site categories visited, and session frequency.
 Methodology
 a. Dataset
 The dataset used contains:
